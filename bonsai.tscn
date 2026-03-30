@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://ccban1yhxcb0r"]
+
+[ext_resource type="Script" uid="uid://b8pcadg566en7" path="res://tree.gd" id="1_ymano"]
+
+[node name="Bonsai" type="Node2D" unique_id=1019944116]
+
+[node name="Tree" type="Node2D" parent="." unique_id=835674499]
+script = ExtResource("1_ymano")
